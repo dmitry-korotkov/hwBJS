@@ -380,7 +380,7 @@ class Demourge extends Mage {
 }
 
 // Процесс игры
-
+/*
 function play(takenPlayers) {
 	const players = [...takenPlayers];
 	do {
